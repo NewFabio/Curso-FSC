@@ -173,6 +173,7 @@ body {
 .day-weather-item > div {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 }
 
 .day-weather-item > div > p:first-child {
