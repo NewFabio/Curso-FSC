@@ -19,6 +19,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding: 40px;
+    grid-gap: 100px;
 }
 
 .navbar-container {
@@ -140,6 +141,55 @@ body {
 .weather-detail-item div img {
     width: 35px;
     height: 35px;
+}
+
+/* Previsão Semanal */
+.weekly-forecast-container {
+    background: #fff;
+    border-radius: 40px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.day-weather-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.day-weather-item > p,
+.day-weather-item > img,
+.day-weather-item > div {
+    flex: 1;
+}
+
+.day-weather-item > p {
+    color: #8f8f8f;
+    font-weight: 500;
+}
+
+.day-weather-item > div {
+    display: flex;
+    align-items: center;
+}
+
+.day-weather-item > div > p:first-child {
+    font-weight: 500;
+    color: #2a394f;
+    margin-left: 15px;
+    margin-right: 8px;
+}
+
+.day-weather-item > div > p:last-child {
+    font-weight: 500;
+    color: #8f8f8f;
+}
+
+.day-weather-item img {
+    with: 60px;
+    height: 60px;
 }
 
 /* Utilidades */
