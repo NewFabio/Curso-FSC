@@ -1,6 +1,6 @@
-# 🎓 Formação Full Stack Club — Jornada de Desenvolvimento
+# 🎓 Formação Full Stack — Jornada de Desenvolvimento
 
-Este repositório centraliza minha trajetória de estudos dentro da formação **Full Stack Club**, reunindo cursos, projetos práticos e evolução técnica ao longo da especialização em desenvolvimento Full Stack.
+Este repositório centraliza minha trajetória de estudos dentro da formação **Full Stack**, reunindo cursos, projetos práticos e evolução técnica ao longo da especialização no curso do **Full Stack Club**.
 
 O objetivo é documentar de forma organizada todo o processo de aprendizado, funcionando como:
 
