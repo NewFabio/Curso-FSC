@@ -18,9 +18,9 @@ Cada curso realizado dentro do Full Stack Club é organizado em uma pasta própr
 ```text
 Curso-FSC/
 │
-├── Code-Start/        → Fundamentos do desenvolvimento web
-├── React/             → (próximo módulo)
-├── Full-Stack/              → (futuro)
+├── Code-Start/        → Fundamentos do desenvolvimento web / finalizado
+├── React/             → Iniciado
+├── Full-Stack/              → próximo
 └── Full-Stack-Avançado/    → (futuro)
 ```
 
@@ -56,7 +56,7 @@ Desenvolver domínio técnico nas seguintes tecnologias ao longo da formação:
 ## 📖 Status Atual
 
 ✔️ Concluindo: **Code Start (Fundamentos)**
-➡️ Próximo passo: **React**
+🎯 Iniciado: **React**
 
 ---
 
